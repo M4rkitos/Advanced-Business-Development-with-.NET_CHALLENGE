@@ -8,7 +8,7 @@ Gestão de Vagas: Reserva online de vagas de visitantes com um sistema de cobran
 Reserva de Áreas Comuns: Agendamento de salão de festas, churrasqueiras e quadras.
 Sistema de Sorteio Pseudo Aleatório: Mecanismo para alocação justa de áreas comuns em datas de alta demanda (feriados).
 
-## Requisitos Funcionais e Não Funcionais:
+# Requisitos Funcionais e Não Funcionais:
 
 ## Funcionais:
 Permitir que moradores consultem a disponibilidade de vagas e áreas comuns em tempo real.

@@ -101,7 +101,7 @@ namespace EasyAccess.Api.Controllers
 
         // -------------------------------------------------------------------
         // 5. DELETE (DELETE) - Excluir
-        // -------------------------------------------------------------------
+        // 
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
